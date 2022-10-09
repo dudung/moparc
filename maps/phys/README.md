@@ -24,6 +24,8 @@ flowchart LR
   click phys "https://github.com/dudung/moparc/tree/main/maps" _self
   click mech "https://github.com/dudung/moparc/tree/main/maps/phys/mech" _self
   %% styles
+  classDef prev fill:#afa,stroke:#090,stroke-width:1px;
+  class phys prev;
 ```
 
 ## refs
