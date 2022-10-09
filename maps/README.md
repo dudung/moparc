@@ -23,6 +23,10 @@ flowchart LR
   click math "https://github.com/dudung/moparc/tree/main/maps/math" _self
   click phys "https://github.com/dudung/moparc/tree/main/maps/phys" _self
   %% styles
+  classDef default fill:#fff,stroke:#999,stroke-width:1px,color:#999;
+  classDef prev fill:#fcc,stroke:#900,stroke-width:1px,color:#900;
+  classDef next fill:#afa,stroke:#090,stroke-width:1px,color:#090;
+  class phys next;
 ```
 + Above version [41f92d49b2](https://github.com/dudung/moparc/tree/41f92d49b2)
 + Version with Astronomy [c6ec2ac255](https://github.com/dudung/moparc/tree/c6ec2ac255)
