@@ -20,7 +20,7 @@ flowchart LR
   aero(( Aeronautics ))
   agri(( Agriculture ))
   astr(( Astronomy ))
-  biol(( Biology))
+  biol(( Biology ))
   chem(( Chemistry ))
   econ(( Economics ))
   geol(( Geology ))
