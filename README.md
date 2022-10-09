@@ -6,7 +6,7 @@ map of physics and related concepts
 ```mermaid
 flowchart LR
   %% links
-  math & phys --- astr
+  %%math & phys --- astr
   math --- phys & chem & biol & agri & econ
   phys --- chem --- biol --- agri  --- econ
   %%agri --- econ
@@ -21,7 +21,7 @@ flowchart LR
   %% elements
   %%aero(( Aeronautics ))
   agri(( Agriculture ))
-  astr(( Astronomy ))
+  %%astr(( Astronomy ))
   biol(( Biology ))
   chem(( Chemistry ))
   econ(( Economics ))
