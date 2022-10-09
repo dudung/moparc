@@ -6,8 +6,7 @@ relation of some fields
 ```mermaid
 flowchart LR
   %% links
-  math --- phys & chem & biol & agri & econ
-  phys --- chem --- biol --- agri  --- econ
+  math --- phys --- chem --- biol --- agri  --- econ
   agri(( Agriculture ))
   biol(( Biology ))
   chem(( Chemistry ))
@@ -28,7 +27,8 @@ flowchart LR
   classDef next fill:#afa,stroke:#090,stroke-width:1px,color:#090;
   class phys next;
 ```
-+ Above version [41f92d49b2](https://github.com/dudung/moparc/tree/41f92d49b2)
++ Version with style []()
++ Version Mathematics to all [41f92d49b2](https://github.com/dudung/moparc/tree/41f92d49b2)
 + Version with Astronomy [c6ec2ac255](https://github.com/dudung/moparc/tree/c6ec2ac255)
 + Version with other fields [bdda87f4e3](https://github.com/dudung/moparc/tree/bdda87f4e3)
 
