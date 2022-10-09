@@ -21,6 +21,7 @@ flowchart LR
     qfth(( Quantum<br>Field<br>Theory))
   stat(( Statistical<br>Mechanics ))
   %% pages
+  click phys "https://github.com/dudung/moparc" _self
   click mech "https://github.com/dudung/moparc/tree/main/phys/mech" _self
   %% styles
 ```

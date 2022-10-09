@@ -22,6 +22,7 @@ flowchart LR
         liqu(( Liquid ))
         gase(( Gas ))
   %% pages
+  click mech "https://github.com/dudung/moparc/tree/main/phys" _self
   %% styles
 ```
 
