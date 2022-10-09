@@ -1,4 +1,4 @@
 # moparc
 map of physics and related concepts
 
-+ [maps](maps)
++ [some fields](maps): [physics](maps/phys)
