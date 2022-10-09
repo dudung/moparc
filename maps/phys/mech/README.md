@@ -24,8 +24,8 @@ flowchart LR
   %% pages
   click mech "https://github.com/dudung/moparc/tree/main/maps/phys" _self
   %% styles
-  classDef prev fill:#afa,stroke:#090,stroke-width:1px;
-  classDef next fill:#aaf,stroke:#009,stroke-width:1px;
+  classDef prev fill:#afa,stroke:#090,stroke-width:1px,color:#090;
+  classDef next fill:#ccf,stroke:#009,stroke-width:1px,color:#009;
   class mech prev;
 ```
 
