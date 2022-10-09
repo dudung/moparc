@@ -45,7 +45,7 @@ flowchart LR
   click mine "https://github.com/dudung/moparc/tree/main/mine" _self
   click phar "https://github.com/dudung/moparc/tree/main/phar" _self
   click phys "https://github.com/dudung/moparc/tree/main/phys" _self
-  click stat "/stat" _self
+  click stat "https://github.com/dudung/moparc/tree/main/stat" _self
   %% styles
 ```
 
