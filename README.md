@@ -32,20 +32,20 @@ flowchart LR
   phys(( Physics ))
   stat(( Statistics ))
   %% pages
-  click aero "./aero" _self
-  click agri "./ari" _self
-  click astr "./astr" _self
-  click biol "./biol" _self
-  click chem "./chem" _self
-  click econ "./econ" _self
-  click geol "./geol" _self
-  click geol "./info" _self
-  click math "./math" _self
-  click medi "./medi" _self
-  click mine "./mine" _self
-  click phar "./phar" _self
-  click phys "./phys" _self
-  click stat "./stat" _self
+  click aero "https://github.com/dudung/moparc/tree/main/aero" _self
+  click agri "https://github.com/dudung/moparc/tree/main/agri" _self
+  click astr "https://github.com/dudung/moparc/tree/main/astr" _self
+  click biol "https://github.com/dudung/moparc/tree/main/biol" _self
+  click chem "https://github.com/dudung/moparc/tree/main/chem" _self
+  click econ "https://github.com/dudung/moparc/tree/main/econ" _self
+  click geol "https://github.com/dudung/moparc/tree/main/geol" _self
+  click geol "https://github.com/dudung/moparc/tree/main/info" _self
+  click math "https://github.com/dudung/moparc/tree/main/math" _self
+  click medi "https://github.com/dudung/moparc/tree/main/medi" _self
+  click mine "https://github.com/dudung/moparc/tree/main/mine" _self
+  click phar "phar" _self
+  click phys "phys" _self
+  click stat "stat" _self
   %% styles
 ```
 
