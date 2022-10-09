@@ -15,13 +15,13 @@ flowchart LR
   math(( Mathematics ))
   phys(( Physics ))
   %% pages
-  click agri "https://github.com/dudung/moparc/tree/main/maps/agri" _self
-  click astr "https://github.com/dudung/moparc/tree/main/maps/astr" _self
-  click biol "https://github.com/dudung/moparc/tree/main/maps/biol" _self
-  click chem "https://github.com/dudung/moparc/tree/main/maps/chem" _self
-  click econ "https://github.com/dudung/moparc/tree/main/maps/econ" _self
-  click math "https://github.com/dudung/moparc/tree/main/maps/math" _self
-  click phys "https://github.com/dudung/moparc/tree/main/maps/phys" _self
+  click agri "https://github.com/dudung/moparc/tree/main/maps/agri/README.md" _self
+  click astr "https://github.com/dudung/moparc/tree/main/maps/astr/README.md" _self
+  click biol "https://github.com/dudung/moparc/tree/main/maps/biol/README.md" _self
+  click chem "https://github.com/dudung/moparc/tree/main/maps/chem/README.md" _self
+  click econ "https://github.com/dudung/moparc/tree/main/maps/econ/README.md" _self
+  click math "https://github.com/dudung/moparc/tree/main/maps/math/README.md" _self
+  click phys "https://github.com/dudung/moparc/tree/main/maps/phys/README.md" _self
   %% styles
   classDef default fill:#fff,stroke:#999,stroke-width:1px,color:#999;
   classDef prev fill:#fcc,stroke:#900,stroke-width:1px,color:#900;

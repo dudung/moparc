@@ -21,8 +21,8 @@ flowchart LR
     qfth(( Quantum<br>Field<br>Theory))
   stat(( Statistical<br>Mechanics ))
   %% pages
-  click phys "https://github.com/dudung/moparc/tree/main/maps" _self
-  click mech "https://github.com/dudung/moparc/tree/main/maps/phys/mech" _self
+  click phys "https://github.com/dudung/moparc/tree/main/maps//README.md" _self
+  click mech "https://github.com/dudung/moparc/tree/main/maps/phys/mech//README.md" _self
   %% styles
   classDef default fill:#fff,stroke:#999,stroke-width:1px,color:#999;
   classDef prev fill:#fcc,stroke:#900,stroke-width:1px,color:#900;
